@@ -26,8 +26,8 @@ Ingénieur de Conception (École Polytechnique de Thiès, 2026) · Dakar, Séné
 | 2026 | 🥇 Défi Innovation, Hackathon JOJ Dakar 2026 | **DAKAR FLOW** : mobilité urbaine |
 | 2026 | 🥇 Africa T-Awards, Sécurité et Confidentialité | **SecureIDChain** : identité numérique sur blockchain |
 | 2025 | 🥇 Hackathon SENELEC | App mobile et tableau de bord de retours clients |
-| 2025 | 🥉 SALTIS, Concours Innovation Numérique | |
-| 2024 | 🥇 SALTIS, Concours Innovation Numérique | |
+| 2025 | 🥉 SALTIS, Concours Innovation Numérique | Application mobile pour les JOJ Dakar 2026 |
+| 2024 | 🥇 SALTIS, Concours Innovation Numérique | Détection de fuites par IA sur les pipelines de gaz de Petrosen |
 
 ## 🛠️ Stack
 

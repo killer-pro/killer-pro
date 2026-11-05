@@ -82,6 +82,8 @@ Ingénieur de Conception (École Polytechnique de Thiès, 2026) · Dakar, Séné
 | Projet | Description |
 |---|---|
 | [**vivi-paypal-hackathon**](https://github.com/killer-pro/vivi-paypal-hackathon) | Création de vidéos verticales par IA avec paiement PayPal (PayPal AI Hackathon) |
+| [**llm-secuity-agent**](https://github.com/killer-pro/llm-secuity-agent) | Plateforme desktop d'analyse de sécurité pilotée par IA : scan réseau Nmap, détection de malwares VirusTotal, recherche de CVE par RAG |
+| [**echo-code-detective-quest**](https://github.com/killer-pro/echo-code-detective-quest) | Jeux d'enquête générés par IA, où le joueur interroge librement des personnages pilotés par LLM |
 | [**big_data_customer-_segmentation_and_recommentation_with_spark**](https://github.com/killer-pro/big_data_customer-_segmentation_and_recommentation_with_spark) | Segmentation client et recommandation avec Apache Spark |
 | [**segmentation_client_olist**](https://github.com/killer-pro/segmentation_client_olist) | Segmentation clientèle sur le dataset e-commerce Olist |
 | [**docker_kubernetes_project**](https://github.com/killer-pro/docker_kubernetes_project) | Conteneurisation et orchestration d'une application avec Docker & Kubernetes |
